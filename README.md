@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Full Stack Web Developer.<br>🤝 I’m looking for Web Development Roles.<br>🌱 I’m currently learning Cloud Management System.<br>💬 Learning++;<br>⚡ Smart Work > Hard Work.
+🔭 I’m a Full Stack Web Developer.<br>🤝 I’m looking for Web Development Roles.<br>🌱 I’m currently learning Cloud Management System.<br>💬 Learning++;<br>⚡ Smart Work > Hard Work
 
 
 ## 🌐 Socials:
